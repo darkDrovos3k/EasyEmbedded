@@ -5,8 +5,8 @@
 int main(void) {
     int a;
     int b = 1;
-    scanf("%d", &a);
 
+    scanf("%d", &a);
     if (a < 0 || a > 100) {
         exit(1);
     }

@@ -6,7 +6,6 @@ int main(void) {
     long long int sum = 0;
 
     scanf("%d%d", &a, &b);
-
     for (; a <= b; ) {
         c = a * a;
         sum += c;
@@ -14,6 +13,5 @@ int main(void) {
     }
 
     printf("%lld", sum);
-
     return 0;
 }

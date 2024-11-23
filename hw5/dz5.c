@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main(void) {
     int a, sum = 0;
 
